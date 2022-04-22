@@ -96,7 +96,7 @@ section {
 .banner h2,
 .banner p,
 .banner span {
-	color: #fff;
+	color: #333;
 }
 .banner h2 {
 	margin-bottom: 10px;
@@ -120,7 +120,7 @@ section h3::before {
 	bottom: 0;
 	width:120px;
 	height:1px;
-	background-color: #ddd;
+	background-color: #333;
 	left: calc(50% - 60px);
 }
 section h3::after {
